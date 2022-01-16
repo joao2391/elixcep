@@ -6,6 +6,11 @@
 
 Elixcep helps you to get a CEP or Address from brazilian's postal service
 
+## Notes
+Version 0.1.0:
+
+- Added features to get CEP and Address.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
